@@ -1,0 +1,95 @@
+header{
+    
+    position: sticky;
+}
+nav{
+    position:sticky;
+}
+.bg{
+    
+        background-color:lightcyan ;
+        
+      
+
+
+
+
+
+}  
+li{
+display: inline-block;
+padding-left: 20px;
+
+}
+li{
+    font-size:x-large;
+    color: white;
+}
+a{  
+    
+text-decoration:none ;
+font-size:x-large;
+color: white;
+float: right;
+}
+.tabs{
+    float: right;
+}
+a:hover{
+background-color: white;
+border:white solid 1px;
+border-radius: 25px;
+color: black;
+}
+
+header{
+background-color:plum;
+}
+.imag{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width:10%;
+    margin-top: 10%;
+   
+   
+}
+#img1{
+    border-radius: 50%;
+    margin-left: 45%;
+}
+#contacthead{
+    margin-left: 40%;
+    font-size: 70px; 
+}
+#ahead{
+    margin-left:40%;
+    font-size:70px;
+}
+#eduhead{
+    margin-left:40%;
+    font-size:70px;
+}
+tr{
+    
+    outline: thin solid;
+}
+td{
+    font-size: larger;
+}
+th{
+    font-size: x-large;
+}
+tr:hover{
+    background-color: lightpink;
+
+}
+#edutable{
+    margin-left: 35%;
+}
+#para{
+    margin-left: 20%;
+}
+#atable{
+    margin-left: 45%;
+}
